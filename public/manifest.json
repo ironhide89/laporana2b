@@ -1,0 +1,17 @@
+{
+    "name": "Laravel Package Tutorial",
+    "short_name": "LPT",
+    "start_url": "https://f503-2001-448a-10e5-39de-f5cb-a604-9a0f-7643.ngrok-free.app/",
+    "background_color": "#6777ef",
+    "description": "Tutorial of Laravel Package",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
